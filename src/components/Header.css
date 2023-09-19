@@ -1,0 +1,9 @@
+header{
+    height: 60px;
+    display: flex;
+    padding: 0.5rem 2rem ;
+    padding: fixed;
+}
+.company_logo{
+    width: 200px;
+}

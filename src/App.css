@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.iframe_grafana{
+  height: 93vh;
+  width: 100%;
+  border: 1px solid #311e4c;
+}
