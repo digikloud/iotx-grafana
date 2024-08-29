@@ -9,7 +9,7 @@ function Header() {
         <img src={logo} alt="logo" className="company_logo" />
       </div>
       <div className="heading_text">
-        <p>Brew OverWatch</p>
+        <p style={{fontFamily: "Century Gothic"}}> Brew OverWatch</p>
       </div>
       <div className="logo">
         <img src={logo} alt="logo" className="company_logo" />
